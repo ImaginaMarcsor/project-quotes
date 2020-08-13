@@ -1,11 +1,11 @@
 {
   "name": "front-emd-v1",
-  "version": "0.0.1",
+  "version": "1.0.8",
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
-  "cordovaId": "org.cordova.quasar.app",
+  "cordovaId": "com.imagina.mragencia.app",
   "capacitorId": "",
-  "author": "michael <38920570+msolanoimagina@users.noreply.github.com>",
+  "author": "proyectos@imaginacolombia.com",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
